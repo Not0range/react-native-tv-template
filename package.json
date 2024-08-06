@@ -1,0 +1,12 @@
+{
+  "name": "react-native-tv-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ]
+}
